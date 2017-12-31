@@ -28,4 +28,5 @@
 * [善用工具提昇開發效率](shan-yong-gong-ju-ti-sheng-kai-fa-xiao-lv.md)
 * [前端工程師要不要接案？如何報價？](qian-duan-gong-cheng-shi-yao-bu-yao-jie-an-ff1f-ru-he-bao-jia-ff1f.md)
 * [經營人脈發展，讓自己永遠不缺下份前端工作](jing-ying-ren-mai-fa-zhan-ff0c-rang-zi-ji-yong-yuan-bu-que-xia-fen-qian-duan-gong-zuo.md)
+* [身為前端，你瞭解公司的專案性質嗎？](shen-wei-qian-duan-ff0c-ni-liao-jie-gong-si-de-zhuan-an-xing-zhi-ma-ff1f.md)
 

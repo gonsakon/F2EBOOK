@@ -20,4 +20,7 @@
 * [打破工程師就必須加班爆肝的迷思](da-po-gong-cheng-shi-jiu-bi-xu-jia-ban-bao-gan-de-mi-si.md)
 * [教你開發出不會被後端吐槽的前端版型](jiao-ni-kai-fa-chu-bu-hui-bei-hou-duan-tu-cao-de-qian-duan-ban-xing.md)
 * [Angular、Vue、React 框架選擇是個偽命題](angularvuereact-kuang-jia-xuan-ze-shi-ge-wei-ming-ti.md)
+* [要認清公司能帶給你的「技術功力」有限，你得自己額外補起來](yao-ren-qing-gong-si-neng-dai-gei-ni-de-300c-ji-shu-gong-li-300d-you-xian-ff0c-ni-de-zi-ji-e-wai-bu-qi-lai.md)
+* [工程師打造高效工作的秘訣](gong-cheng-shi-da-zao-gao-xiao-gong-zuo-de-mi-jue.md)
+* [適時充電擺脫工作低潮](shi-shi-chong-dian-bai-tuo-gong-zuo-di-chao.md)
 

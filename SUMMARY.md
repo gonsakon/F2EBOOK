@@ -11,4 +11,5 @@
 * [寫爛 CODE 是學程式必經之路](xie-lan-code-shi-xue-cheng-shi-bi-jing-zhi-lu.md)
 * [程式寫不好，是不是我沒天份？](cheng-shi-xie-bu-hao-ff0c-shi-bu-shi-wo-mei-tian-fen-ff1f.md)
 * [找一個好 mentor ，讓你少走些冤枉路](zhao-yi-ge-hao-mentor-ff0c-rang-ni-shao-zou-xie-yuan-wang-lu.md)
+* [初級前端工程師的求職門檻](chu-ji-qian-duan-gong-cheng-shi-de-qiu-zhi-men-jian.md)
 

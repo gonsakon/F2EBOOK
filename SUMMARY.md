@@ -12,4 +12,9 @@
 * [程式寫不好，是不是我沒天份？](cheng-shi-xie-bu-hao-ff0c-shi-bu-shi-wo-mei-tian-fen-ff1f.md)
 * [找一個好 mentor ，讓你少走些冤枉路](zhao-yi-ge-hao-mentor-ff0c-rang-ni-shao-zou-xie-yuan-wang-lu.md)
 * [初級前端工程師的求職門檻](chu-ji-qian-duan-gong-cheng-shi-de-qiu-zhi-men-jian.md)
+* [如何設計吸引人的前端履歷](ru-he-she-ji-xi-yin-ren-de-qian-duan-lv-li.md)
+* [前端面試法則二三事](qian-duan-mian-shi-fa-ze-er-san-shi.md)
+* [挑選前端職缺時，要知道每間公司都是凹凸不平的個體](tiao-xuan-qian-duan-zhi-que-shi-ff0c-yao-zhi-dao-mei-jian-gong-si-du-shi-ao-tu-bu-ping-de-ge-ti.md)
+* [如何培養自信成為前端工程師？](ru-he-pei-yang-zi-xin-cheng-wei-qian-duan-gong-cheng-shi-ff1f.md)
+* [工程師是否有年紀背景限制？](gong-cheng-shi-shi-fou-you-nian-ji-bei-jing-xian-zhi-ff1f.md)
 

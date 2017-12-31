@@ -17,4 +17,6 @@
 * [挑選前端職缺時，要知道每間公司都是凹凸不平的個體](tiao-xuan-qian-duan-zhi-que-shi-ff0c-yao-zhi-dao-mei-jian-gong-si-du-shi-ao-tu-bu-ping-de-ge-ti.md)
 * [如何培養自信成為前端工程師？](ru-he-pei-yang-zi-xin-cheng-wei-qian-duan-gong-cheng-shi-ff1f.md)
 * [工程師是否有年紀背景限制？](gong-cheng-shi-shi-fou-you-nian-ji-bei-jing-xian-zhi-ff1f.md)
+* [打破工程師就必須加班爆肝的迷思](da-po-gong-cheng-shi-jiu-bi-xu-jia-ban-bao-gan-de-mi-si.md)
+* [教你開發出不會被後端吐槽的前端版型](jiao-ni-kai-fa-chu-bu-hui-bei-hou-duan-tu-cao-de-qian-duan-ban-xing.md)
 

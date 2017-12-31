@@ -23,4 +23,9 @@
 * [要認清公司能帶給你的「技術功力」有限，你得自己額外補起來](yao-ren-qing-gong-si-neng-dai-gei-ni-de-300c-ji-shu-gong-li-300d-you-xian-ff0c-ni-de-zi-ji-e-wai-bu-qi-lai.md)
 * [工程師打造高效工作的秘訣](gong-cheng-shi-da-zao-gao-xiao-gong-zuo-de-mi-jue.md)
 * [適時充電擺脫工作低潮](shi-shi-chong-dian-bai-tuo-gong-zuo-di-chao.md)
+* [教你解讀前端徵才廠商職缺內容的背後真相](jiao-ni-jie-du-qian-duan-zheng-cai-chang-shang-zhi-que-nei-rong-de-bei-hou-zhen-xiang.md)
+* [你可曾思考離職後尋求更好的自己？](ni-ke-ceng-si-kao-li-zhi-hou-xun-qiu-geng-hao-de-zi-ji-ff1f.md)
+* [善用工具提昇開發效率](shan-yong-gong-ju-ti-sheng-kai-fa-xiao-lv.md)
+* [前端工程師要不要接案？如何報價？](qian-duan-gong-cheng-shi-yao-bu-yao-jie-an-ff1f-ru-he-bao-jia-ff1f.md)
+* [經營人脈發展，讓自己永遠不缺下份前端工作](jing-ying-ren-mai-fa-zhan-ff0c-rang-zi-ji-yong-yuan-bu-que-xia-fen-qian-duan-gong-zuo.md)
 

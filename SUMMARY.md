@@ -1,8 +1,8 @@
 # Summary
 
-* 書序
+* [書序](shu-xu.md)
   * [書序](README.md)
-* 前端工程師簡介
+* [前端工程師簡介](qian-duan-gong-cheng-shi-jian-jie.md)
   * [時勢造英雄，奠定前端工程師的未來發展](chapter1.md)
   * [設計師投入前端的不二法門](she-ji-shi-tou-ru-qian-duan-de-bu-er-fa-men.md)
 * 學習心法與求職面試篇
@@ -11,7 +11,7 @@
   * [如何有效率地 Google 尋找問題並學習新技術](ru-he-you-xiao-lv-di-google-xun-zhao-wen-ti-bing-xue-xi-xin-ji-shu.md)
   * [番茄鐘工作法 - 設立短、中、長期里程碑](fan-qie-zhong-gong-zuo-fa-she-li-duan-3001-zhong-3001-chang-qi-li-cheng-bei.md)
   * [盡早培養「自主解決問題」的能力](jin-zao-pei-yang-300c-zi-zhu-jie-jue-wen-ti-300d-de-neng-li.md)
-  * [寫爛 CODE 是學程式必經之路](xie-lan-code-shi-xue-cheng-shi-bi-jing-zhi-lu.md)
+  * [寫爛 Code 是學程式必經之路](xie-lan-code-shi-xue-cheng-shi-bi-jing-zhi-lu.md)
   * [程式寫不好，是不是我沒天份？](cheng-shi-xie-bu-hao-ff0c-shi-bu-shi-wo-mei-tian-fen-ff1f.md)
   * [找一個好 mentor ，讓你少走些冤枉路](zhao-yi-ge-hao-mentor-ff0c-rang-ni-shao-zou-xie-yuan-wang-lu.md)
   * [初級前端工程師的求職門檻](chu-ji-qian-duan-gong-cheng-shi-de-qiu-zhi-men-jian.md)

@@ -18,7 +18,7 @@
 想找些前端常見題目的話也推薦這兩個連結：
 
 * [前端工程師面試問題集](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese-Traditional)
-* [面試細節 \( Rplus Chen 整理\)](https://www.facebook.com/notes/raven-chen/%E9%9D%A2%E8%A9%A6-interview/777918558923906)
+* [面試細節 \( Rplus Chen 整理\)](https://www.facebook.com/notes/raven-chen/面試-interview/777918558923906)
 
 ## 要試著雙向溝通，勿讓面試官唱獨角戲
 
@@ -27,7 +27,7 @@
 面試官：「你會寫響應式設計的話，那 Bootstrap 也 ok 嗎？」  
 學生A：「BS 也可以，請問你們有屬意的框架嗎？」  
 面試官：「我們後台都是用 BS，但我們公司前台產品之前用 BS 很不順所以都手刻，但也有在找適合的框架。」  
-學生A：「我也有辦法自己手寫 RWD，最近也有在摸 XX 框架，他跟 BS 比起來有哪些優缺點..族繁不及備載」
+學生A：「我也有辦法自己手寫 RWD，最近也有在摸 XX 框架，他跟 BS 比起來有哪些優缺點 .. 族繁不及備載」
 
 面試官其實也只是一般人，只是因為立場的關係必須很假掰的和你對談，如果你能夠與對方產生雙向交流，將更有助於面試媒合。
 
@@ -46,7 +46,7 @@
 
 除了有辦法讓自己技術成長外，你可以自己設計一個量表，在**薪資福利、離家裡遠近、企業文化、個人技術成長、部門組成**等五大項目，整理出個比較表格來考量，這樣當你獲得複數工作時，才較好評估。
 
-這裡也分享一個[提問問題](https://blog.louie.lu/2017/04/30/%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E7%9A%84%E9%9D%A2%E8%A9%A6%E6%8C%87%E5%8D%97-a-developers-guide-to-interviewing/)的文章，裡頭甚至有針對軟體工程師、管理階層、公司領導階層進行提問的方向。
+這裡也分享一個[提問問題](https://blog.louie.lu/2017/04/30/開發人員的面試指南-a-developers-guide-to-interviewing/)的文章，裡頭甚至有針對軟體工程師、管理階層、公司領導階層進行提問的方向。
 
 ## 讓面試官看到您的價值
 
@@ -56,15 +56,15 @@
 
 ## 結尾
 
-分享兩部我協助學生模擬面試的影片給各位\([影片一](https://www.youtube.com/watch?v=5NT1I3581AA)、[影片二\)](https://www.youtube.com/watch?v=5dei3RLaG2Q&feature=youtu.be)，假使你正準備前端面試時，你可以打開此影片來自行練習面試，當我說一個問題時，你就按暫停自己試著說看看，等到最後總結時，可以再觀察自己是否有些盲點沒留意到，再加以改進。
+分享兩部我協助學生模擬面試的影片給各位 \([影片一](https://www.youtube.com/watch?v=5NT1I3581AA)、[影片二\)](https://www.youtube.com/watch?v=5dei3RLaG2Q&feature=youtu.be)，假使你正準備前端面試時，你可以打開此影片來自行練習面試，當我說一個問題時，你就按暫停自己試著說看看，等到最後總結時，可以再觀察自己是否有些盲點沒留意到，再加以改進。
 
 最後再補充一些資源給有意成為前端工程師的你/妳：
 
 ### 前端求職常見平台
 
 * [F2E TW](https://github.com/f2etw/jobs/issues)
-* [inside](https://jobs.inside.com.tw/categories/2-frontend-engineer)
-* [yourator](https://www.yourator.co/)
+* [INSIDE](https://jobs.inside.com.tw/categories/2-frontend-engineer)
+* [Yourator](https://www.yourator.co/)
 * [104](http://www.104.com.tw/)
 
 ### 面試前、面試後需要注意的細節

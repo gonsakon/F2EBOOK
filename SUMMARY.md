@@ -2,7 +2,7 @@
 
 * 書序
   * [書序](README.md)
-* 前端工程師簡介
+* [前端工程師簡介](qian-duan-gong-cheng-shi-jian-jie.md)
   * [時勢造英雄，奠定前端工程師的未來發展](chapter1.md)
   * [設計師投入前端的不二法門](she-ji-shi-tou-ru-qian-duan-de-bu-er-fa-men.md)
 * 學習心法與求職面試篇

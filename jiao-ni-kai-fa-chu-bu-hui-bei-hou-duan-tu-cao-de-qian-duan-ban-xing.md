@@ -46,13 +46,13 @@
 
 ```
 <ul class="product">
-  <li class="pooduct-item">
+  <li class="product-item">
     <img src="">
     <h2>經典漢堡</h2>
     <span>$120</span>
     <a href="#">加入購物車</a>
   </li>
-  <li class="pooduct-item">
+  <li class="product-item">
     <img src="">
     <h2>經典漢堡</h2>
     <span>$120</span>

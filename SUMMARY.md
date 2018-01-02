@@ -1,6 +1,6 @@
 # Summary
 
-* 書序
+* [書序](shu-xu.md)
   * [書序](README.md)
 * [前端工程師簡介](qian-duan-gong-cheng-shi-jian-jie.md)
   * [時勢造英雄，奠定前端工程師的未來發展](chapter1.md)

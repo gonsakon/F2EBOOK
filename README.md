@@ -6,3 +6,11 @@
 
 [![](/assets/20040221Pcu2oNzdNH.png)](https://goo.gl/3V9RwG)
 
+
+
+## 勘誤與校對感謝清單
+
+* [AJ Hsu](https://github.com/ajhsu)
+
+
+
